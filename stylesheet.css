@@ -1,0 +1,62 @@
+/* this contains the styling of the h1 tag */
+h1 {
+  /* this defines the font that will be used*/
+  font-family:monospace;
+  /* this defines the colour of the font */
+  color: white;
+  /* this is the margin which will create a space on the left of the text*/
+  margin-left: 45%;
+
+}
+/* this contains the styling of the body tag */
+body {
+  /* this defines the background colour*/
+  background-color: #A4A4A4;
+  /* this defines the amount of padding there is */
+  padding: 0;
+  /* this defines the amount of margin there is*/
+  margin: 0;
+
+}
+/* this contains the styling of the p tag */
+p {
+  /* this defines where the text will be positioned */
+  text-align: center;
+  /* this defines the size of the text*/
+  font-size: 20px;
+}
+/* this contains the styling of the canvas tag */
+ canvas {
+   /* this defines where the canvas will be aligned vertically */
+   vertical-align: top;
+ }
+/* this contains the styling of the footer tag */
+footer{
+  /* this defines where it will be aligned vertically */
+  vertical-align: bottom;
+}
+/* this contains the styling of the header tag */
+header {
+  /* this defines the background colour*/
+  background-color: #545454;
+  /* this defines how much padding will be above the header */
+  padding-top: 40px;
+  /* this defines how much padding will be bellow the header */
+  padding-bottom: 20px;
+}
+/* this contains the styling of the sketchcontainer div */
+#sketchcontainer {
+  /* this defines the amount of padding on the left */
+  padding-left: 0;
+  /* this defines the amount of padding on the right */
+  padding-right: 0;
+  /* this defines the amount of margin there will be on the left */
+  margin-left: auto;
+  /* this defines the amount of margin there will be on the right */
+  margin-right: auto;
+  /* this defines the display type */
+  display: block;
+  /* this defines the width of the containrt */
+  width:600px;
+
+}
